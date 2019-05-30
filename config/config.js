@@ -1,9 +1,9 @@
 const dev = {
-  api: 'http://192.168.31.25:85',
+  api: 'http://localhost:10018',
   // host: '192.168.31.85',
-  host: '192.168.31.25',
+  host: '192.168.31.159',
   // redirect_url: 'http://192.168.31.85',
-  redirect_url: 'http://192.168.31.25',
+  redirect_url: 'http://192.168.31.159',
   appid: 'wx3f3186c697d5d784'
   // appid: 'wx94537e8114b8ea73'
 }
